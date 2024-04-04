@@ -10,7 +10,7 @@ We're delighted you joined us for the Fabric Certification Academy DAy. Below, y
 
 ## Slides
 
-[Download the slides](./assets/fabric-cert-academy-day-banner.png)
+[Download the slides](./assets/fabric-certification-exam-day-preview.pdf)
 
 ## Exam resources
 
