@@ -8,7 +8,27 @@ We're delighted you joined us for the Fabric Certification Academy DAy. Below, y
 > [!IMPORTANT]  
 > We're compiling all the resources and slides for this day. Please check later next week for more resources.
 
+## Slides
+
+[Download the slides](./assets/fabric-cert-academy-day-banner.png)
+
+## Exam resources
+
+- [Practice test](Aka.ms/dp600-practice)
+- [Exam sandbox](https://go.microsoft.com/fwlink/?linkid=2226877)
+- [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-dp-600-plan-implement-and-manage-a-solution-for-data-analytics)
+
+
 ## Dive Deeper into Microsoft Fabric
+
+### 🟩 Easy Learning with [Fabric Notes](https://aka.ms/fabricnotes)
+
+Unlock the power of Microsoft Fabric with engaging, easy-to-understand illustrations. Perfect for all levels of expertise!
+
+![](./assets/fabricnotes.png)
+
+[Access Fabric Notes Here](https://aka.ms/fabricnotes)
+
 
 ### 👩‍💻 Microsoft Fabric Career Hub
 
@@ -35,14 +55,6 @@ Enhance your skills with over 30 interactive, on-demand learning modules tailore
 Microsoft Learn helps you discover the tools and enhance your skills as an AI engineer, Data Analyst, Data Engineer, Data Scientist, and Developer. Develop your skills with five AI-themed challenges. Complete a challenge within 30 days of starting for a chance to earn a 50% discount on a Microsoft Certification exam.
 
 [Start Your Learning Journey](https://learn.microsoft.com/en-us/collections/kxqae021m5j5m?wt.mc_id=aitour_advocacydeck_devcollection_cnl)
-
-### 🟩 Easy Learning with [Fabric Notes](https://aka.ms/fabricnotes)
-
-Unlock the power of Microsoft Fabric with engaging, easy-to-understand illustrations. Perfect for all levels of expertise!
-
-![](./assets/fabricnotes.png)
-
-[Access Fabric Notes Here](https://aka.ms/fabricnotes)
 
 ## 💬 Join the Microsoft Fabric Community
 
